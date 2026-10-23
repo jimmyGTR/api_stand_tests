@@ -9,3 +9,5 @@ Este proyecto contiene las pruebas automatizadas en Python orientadas a validar 
 
 ## 🚀 Propósito del proyecto
 Configurar el entorno inicial del proyecto incluyendo las dependencias y la estructura base para el manejo seguro de versiones mediante Git.
+
+# Mi cambio de prueba
